@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fightlol
-- 👀 I’m interested in Game Dev and Programming
+- 👀 I’m interested in Python development
 - 🌱 I’m currently learning Game Devolopment and Machine Learning
-- 💞️ I’m looking to collaborate on 3D models for my game
+- 💞️ I’m not looking for any collabrations now
 - 📫 How to reach me 
 
 <!---
